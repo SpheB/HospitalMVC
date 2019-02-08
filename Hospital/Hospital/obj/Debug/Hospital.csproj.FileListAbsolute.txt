@@ -1,0 +1,10 @@
+c:\users\s.bonnet\documents\visual studio 2015\Projects\Hospital\Hospital\bin\Debug\Hospital.exe.config
+c:\users\s.bonnet\documents\visual studio 2015\Projects\Hospital\Hospital\bin\Debug\Hospital.exe
+c:\users\s.bonnet\documents\visual studio 2015\Projects\Hospital\Hospital\bin\Debug\Hospital.pdb
+c:\users\s.bonnet\documents\visual studio 2015\Projects\Hospital\Hospital\bin\Debug\Hospital.DAL.dll
+c:\users\s.bonnet\documents\visual studio 2015\Projects\Hospital\Hospital\bin\Debug\Hospital.DAL.pdb
+c:\users\s.bonnet\documents\visual studio 2015\Projects\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+c:\users\s.bonnet\documents\visual studio 2015\Projects\Hospital\Hospital\obj\Debug\Hospital.exe
+c:\users\s.bonnet\documents\visual studio 2015\Projects\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\s.bonnet\documents\visual studio 2015\Projects\Hospital\Hospital\bin\Debug\Hospital.Models.dll
+C:\Users\s.bonnet\documents\visual studio 2015\Projects\Hospital\Hospital\bin\Debug\Hospital.Models.pdb
